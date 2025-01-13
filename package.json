@@ -1,6 +1,6 @@
 {
   "name": "braft-convert",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "A convert helper for Braft Editor.",
   "main": "dist/index.js",
   "scripts": {
@@ -44,6 +44,6 @@
     "webpack-merge": "^4.1.0"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0 || ^17.0.1"
   }
 }
